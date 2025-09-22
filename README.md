@@ -54,6 +54,25 @@ A comprehensive, full-stack Customer Relationship Management (CRM) system design
 - **Reminder Notifications**: Visual indicators and count badges for pending tasks
 - **Settings Management**: Customizable system preferences
 
+## 📸 Screenshots
+
+### 🔐 Login Interface
+The system features a clean, professional login interface with multi-language support and secure authentication.
+
+### 📊 Admin Dashboard
+Comprehensive dashboard showing all CRM entities with advanced filtering and search capabilities.
+
+### 👤 User Management
+Role-based access control with different views for Administrators and Sales Representatives.
+
+### 📋 Customer Management
+Intuitive customer management interface with detailed profiles and interaction history.
+
+### ⏰ Reminder System
+Smart reminder system with visual notifications and automatic past-due marking.
+
+*Note: Screenshots can be added by placing image files in a `/docs/images/` directory and linking them here.*
+
 ## 🏗️ System Architecture
 
 ```
