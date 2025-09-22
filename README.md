@@ -664,6 +664,6 @@ copies or substantial portions of the Software.
 
 **⭐ Star this repository if you find it helpful!**
 
-Built with ❤️ by the development team • [View Live Demo](https://your-demo-url.com) • [Report Bug](https://github.com/VanVan120/Customer-Relationship-Management-CRM-System/issues)
+Built with ❤️ by the development team • [Report Bug](https://github.com/VanVan120/Customer-Relationship-Management-CRM-System/issues)
 
 </div>
