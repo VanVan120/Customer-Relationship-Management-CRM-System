@@ -113,7 +113,6 @@ Smart reminder system with visual notifications and automatic past-due marking.
 - **HTML5**: Semantic markup and structure
 - **CSS3**: Modern styling with animations and responsive design
 - **JavaScript**: Client-side interactivity and AJAX
-- **Bootstrap-inspired**: Custom responsive grid system
 
 ### Development Tools
 - **phpMyAdmin**: Database administration
@@ -289,7 +288,7 @@ $dbname = "comp1044_database"; // Database name
 
 ### Default User Accounts
 
-The system comes with pre-configured user accounts:
+The system comes with pre-configured user accounts (example):
 
 | Username | Password | Role | Email |
 |----------|----------|------|--------|
@@ -644,7 +643,7 @@ copies or substantial portions of the Software.
 ## 🙏 Acknowledgments
 
 - **Development Team**: COMP1044 CW G1 Team Members
-- **Educational Institution**: Course project development
+- **Educational Institution**: University of Nottingham Malaysia
 - **Open Source Community**: For tools and inspiration
 - **Beta Testers**: For feedback and bug reports
 
